@@ -743,7 +743,7 @@
                         withText:[NSString stringWithFormat:@"%@   门幅：%@",Numberstr,dic[@"Width"]]];
             
             if ([self isStr:unitstr moreThanLenth:17]) {
-                NSMutableArray * unitstrArr = [self subTextString:namestr len:17];
+                NSMutableArray * unitstrArr = [self subTextString:unitstr len:17];
                 [tscCmd addTextwithX:156
                                withY:284
                             withFont:@"TSS24.BF2"

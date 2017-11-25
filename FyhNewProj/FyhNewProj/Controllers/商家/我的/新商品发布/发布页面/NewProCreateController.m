@@ -537,7 +537,7 @@
     attributes = [strArr componentsJoinedByString:@","];
     [MBProgressHUD showMessag:nil toView:self.view];
 
-    [_upImagePL shopUpdateToByGoodsImgArr:_urlPhotos WithReturnBlock:^(id returnValue) {
+    [_upImagePL shopUpdateToByGoodsImgArr:self.pictureView.urlPhotos WithReturnBlock:^(id returnValue) {
         NSArray *imageArr = returnValue[@"imageUrls"];
         NSDictionary *infoDic;
         infoDic = @{@"name":self.proMessageView.ProNameTxt.text,
