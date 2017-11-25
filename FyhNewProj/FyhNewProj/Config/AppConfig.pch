@@ -1,0 +1,47 @@
+//
+//  AppConfig.pch
+//  FyhNewProj
+//
+//  Created by yh f on 2017/3/2.
+//  Copyright © 2017年 fyh. All rights reserved.
+//
+
+#ifndef AppConfig_pch
+#define AppConfig_pch
+// 如果不需要红包功能，直接把这个REDPACKET_AVALABLE宏注释掉，然后：
+// 1.删掉红包相关代码：注释掉后，建议在xcode中搜索“REDPACKET_AVALABLE”，然后删掉相关代码；
+#define REDPACKET_AVALABLE
+
+// 如果不需要语音通话功能，直接把这个宏注释掉或者改成0，然后：
+// 1.删掉音视频相关代码：注释掉后，建议在xcode中搜索“DEMO_CALL”，然后删掉相关代码；
+// 2.隐藏音视频通话按钮：EaseChatBarMoreView.m  第115-131行代码注释掉。
+#define DEMO_CALL 0 // 1：启用音视频通话；0：禁用音视频通话
+
+
+#ifdef __OBJC__
+#import "ProjectMacro.h"
+#import "HttpConfig.h"
+#import "HTTPClient.h"
+#import "SubBtn.h"
+#import "WebViewJavascriptBridge.h"
+#import "UIView+SDAutoLayout.h"
+#import "MJExtension.h"
+#import "SelectBtn.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "MBProgressHUD.h"
+#import "MBProgressHUD+Add.h"
+#import "RongIMKit/RongIMKit.h"
+#import "BaseViewFactory.h"
+#import "YLButton.h"
+#import "UIImageView+WebCache.h"
+#import "ReactiveCocoa.h"
+#import "UserPL.h"
+#import "MemberLoginController.h"
+#import "DOHNavigationController.h"
+#import "UIView+SDAutoLayout.h"
+#import "GlobalMethod.h"
+#import "BaseTableView.h"
+#endif
+
+#endif

@@ -1,0 +1,2721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x989c;&#x8272;&#x65b0;&#x589e;&#x754c;&#x9762;/AddColorController.m"
+            timestampString = "531822628.67242"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x989c;&#x8272;&#x65b0;&#x589e;&#x754c;&#x9762;/AddColorController.m"
+            timestampString = "531822628.672514"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "-respondToLeftButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.398175"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "-initUI"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5546;&#x54c1;&#x89c4;&#x683c;&#x9009;&#x62e9;View/FabricProUnitView.m"
+            timestampString = "531648111.680469"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "-refreshColorBtnView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5927;&#x8d27;&#x6279;&#x91cf;&#x8bbe;&#x7f6e;/BatchSetView.m"
+            timestampString = "531732550.399185"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.399434"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
+            landmarkName = "-DidSelectedFabricProUnitViewOutPutBtn:andstatusTitleArr:andcolorTitleArr:andType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5927;&#x8d27;&#x6279;&#x91cf;&#x8bbe;&#x7f6e;/BatchSetView.m"
+            timestampString = "531732550.399879"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "-imagePickerController:didFinishPickingMediaWithInfo:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5927;&#x8d27;&#x6279;&#x91cf;&#x8bbe;&#x7f6e;/BatchSetView.m"
+            timestampString = "531732550.400115"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "200"
+            endingLineNumber = "200"
+            landmarkName = "-imagePickerController:didFinishPickingMediaWithInfo:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400344"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400404"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "270"
+            endingLineNumber = "270"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "273"
+            endingLineNumber = "273"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400525"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.40058"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400631"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "298"
+            endingLineNumber = "298"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400681"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "386"
+            endingLineNumber = "386"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "310"
+            endingLineNumber = "310"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400935"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "359"
+            endingLineNumber = "359"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/FabricViewController.m"
+            timestampString = "531732550.400985"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "360"
+            endingLineNumber = "360"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.662635"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "437"
+            endingLineNumber = "437"
+            landmarkName = "-setupBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.663395"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "452"
+            endingLineNumber = "452"
+            landmarkName = "-setupBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x89c4;&#x683c;View/CreateFloTypeView.m"
+            timestampString = "531903137.432007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x89c4;&#x683c;View/CreateFloTypeView.m"
+            timestampString = "531903137.432066"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "531903137.432122"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "-refreshHeight"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "531903137.432186"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "-initUI"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x89c4;&#x683c;View/CreateFloTypeView.m"
+            timestampString = "531903137.432248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "-setKindTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "531903137.432302"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "268"
+            endingLineNumber = "268"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "531903137.432357"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "264"
+            endingLineNumber = "264"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "531903137.432413"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x8bbe;&#x8ba1;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "531903137.432469"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x989c;&#x8272;&#x65b0;&#x589e;&#x754c;&#x9762;/AddColorController.m"
+            timestampString = "531903137.432527"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "-setColorArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x989c;&#x8272;&#x65b0;&#x589e;&#x754c;&#x9762;/AddColorController.m"
+            timestampString = "531903137.43275"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "-setColorArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.664042"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "370"
+            endingLineNumber = "370"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.66411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x8f85;&#x6599;&#x3001;&#x670d;&#x88c5;&#x3001;&#x5bb6;&#x7eba;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/NewAccessViewController.m"
+            timestampString = "532858738.664168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "413"
+            endingLineNumber = "413"
+            landmarkName = "-makesureAllDatas"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/NewParaMeterView.m"
+            timestampString = "532687210.492271"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "457"
+            endingLineNumber = "457"
+            landmarkName = "-setParaMeterType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/Views/AddUnitView.m"
+            timestampString = "532079489.883662"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "-doneBtnclick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/Views/AddUnitView.m"
+            timestampString = "532079489.883928"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "-doneBtnclick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/Views/AddUnitView.m"
+            timestampString = "532079489.884163"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "-doneBtnclick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/Views/AddUnitView.m"
+            timestampString = "532079489.884393"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "-doneBtnclick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.801429"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "615"
+            endingLineNumber = "615"
+            landmarkName = "-sureBtnClick"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewFaViewController sureBtnClick]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E9%9D%A2%E6%96%99%E5%9D%AF%E5%B8%83%E5%8F%91%E5%B8%83/%E9%9D%A2%E6%96%99%E8%A7%84%E6%A0%BC%E7%BC%96%E8%BE%91/NewFaViewController.m"
+                  timestampString = "532081932.048307"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "595"
+                  endingLineNumber = "595"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewFaViewController sureBtnClick]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E9%9D%A2%E6%96%99%E5%9D%AF%E5%B8%83%E5%8F%91%E5%B8%83/%E9%9D%A2%E6%96%99%E8%A7%84%E6%A0%BC%E7%BC%96%E8%BE%91/NewFaViewController.m"
+                  timestampString = "532081932.050518"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "595"
+                  endingLineNumber = "595"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.801502"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "617"
+            endingLineNumber = "617"
+            landmarkName = "-sureBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.665202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "328"
+            endingLineNumber = "328"
+            landmarkName = "-newUserHaveSelectedCategory:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/waTableTableViewCell.m"
+            timestampString = "532342241.018208"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "-setUP"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/waTableTableViewCell.m"
+            timestampString = "532342241.018278"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "-setModel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/waTableTableViewCell.m"
+            timestampString = "532342241.018331"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "-setModel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/waTableTableViewCell.m"
+            timestampString = "532342241.01838"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "-selectedBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.084925"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1085"
+            endingLineNumber = "1085"
+            landmarkName = "-printWithCell:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085071"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1086"
+            endingLineNumber = "1086"
+            landmarkName = "-printWithCell:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GoodsManageViewController onSelectAllBtnClick]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/GoodsManageViewController.m"
+                  timestampString = "532320957.864934"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "915"
+                  endingLineNumber = "915"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GoodsManageViewController onSelectAllBtnClick]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/GoodsManageViewController.m"
+                  timestampString = "532320957.867506"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "915"
+                  endingLineNumber = "915"
+                  offsetFromSymbolStart = "376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085155"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1090"
+            endingLineNumber = "1090"
+            landmarkName = "-printWithCell:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085232"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1156"
+            endingLineNumber = "1156"
+            landmarkName = "GoodsManageViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085306"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1147"
+            endingLineNumber = "1147"
+            landmarkName = "-downSelectAllBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.08538"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "602"
+            endingLineNumber = "602"
+            landmarkName = "-loadUpOrDownDataWithDic:andnumber:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085452"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "891"
+            endingLineNumber = "891"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "881"
+            endingLineNumber = "881"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085597"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "871"
+            endingLineNumber = "871"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "859"
+            endingLineNumber = "859"
+            landmarkName = "-tableView:cellForRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085742"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "843"
+            endingLineNumber = "843"
+            landmarkName = "-tableView:numberOfRowsInSection:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085814"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "556"
+            endingLineNumber = "556"
+            landmarkName = "-reLoadData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.085886"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "590"
+            endingLineNumber = "590"
+            landmarkName = "-loadMyGoods"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.08595"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1290"
+            endingLineNumber = "1290"
+            landmarkName = "-samprintBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086006"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1305"
+            endingLineNumber = "1305"
+            landmarkName = "-samprintBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086062"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "620"
+            endingLineNumber = "620"
+            landmarkName = "-loadUserCustomstockLessThanNumber:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086117"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "623"
+            endingLineNumber = "623"
+            landmarkName = "-loadUserCustomstockLessThanNumber:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086172"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "581"
+            endingLineNumber = "581"
+            landmarkName = "-loadMyGoods"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086226"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "563"
+            endingLineNumber = "563"
+            landmarkName = "-loadMyGoods"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086279"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "641"
+            endingLineNumber = "641"
+            landmarkName = "-loadstockLessThanNumberProWithDic:andtag:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086332"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "691"
+            endingLineNumber = "691"
+            landmarkName = "-loadSuccessWithArr:andtag:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086385"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "701"
+            endingLineNumber = "701"
+            landmarkName = "-loadSuccessWithArr:andtag:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.08644"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "677"
+            endingLineNumber = "677"
+            landmarkName = "-loadSuccessWithArr:andtag:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086493"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "356"
+            endingLineNumber = "356"
+            landmarkName = "-initData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086546"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "912"
+            endingLineNumber = "912"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/SearchboxViewController.m"
+            timestampString = "532427634.082872"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/SearchboxViewController.m"
+            timestampString = "532427634.082932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "-loadData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/SearchboxViewController.m"
+            timestampString = "532427634.082983"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "-loadData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/SearchboxViewController.m"
+            timestampString = "532427634.083031"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.08669"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "911"
+            endingLineNumber = "911"
+            landmarkName = "-tableView:didSelectRowAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.086748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1189"
+            endingLineNumber = "1189"
+            landmarkName = "-onputBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.833647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "-loadGoodsDetail"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/NewParaMeterView.m"
+            timestampString = "532687210.496523"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "-setUnitArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/NewParaMeterView.m"
+            timestampString = "532687210.496657"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "-setUnitArr:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewParaMeterView setUnitArr:]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E4%BA%A7%E5%93%81%E5%8F%82%E6%95%B0/NewParaMeterView.m"
+                  timestampString = "532592327.515414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewParaMeterView setUnitArr:]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E4%BA%A7%E5%93%81%E5%8F%82%E6%95%B0/NewParaMeterView.m"
+                  timestampString = "532592327.517748"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/NewParaMeterView.m"
+            timestampString = "532687210.496774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "-setUnitArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/NewParaMeterView.m"
+            timestampString = "532687210.496878"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "711"
+            endingLineNumber = "711"
+            landmarkName = "-appendDataWithModel:andArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/NewParaMeterView.m"
+            timestampString = "532687210.496983"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "713"
+            endingLineNumber = "713"
+            landmarkName = "-appendDataWithModel:andArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.666426"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "-unitBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/&#x53c2;&#x6570;&#x9009;&#x62e9;&#x9875;&#x9762;/&#x9009;&#x62e9;&#x591a;&#x9009;/PareMeterSelectedController.m"
+            timestampString = "532682821.711144"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "-setModel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/&#x53c2;&#x6570;&#x9009;&#x62e9;&#x9875;&#x9762;/&#x9009;&#x62e9;&#x591a;&#x9009;/PareMeterSelectedController.m"
+            timestampString = "532682821.711202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "-setModel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x4ea7;&#x54c1;&#x53c2;&#x6570;/NewParaMeterView.m"
+            timestampString = "532687210.497773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "728"
+            endingLineNumber = "728"
+            landmarkName = "-appendDataWithModel:andArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803145"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "506"
+            endingLineNumber = "506"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:andcolorTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803195"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "483"
+            endingLineNumber = "483"
+            landmarkName = "-DidSelectedFabricProUnitViewOutPutBtn:andstatusTitleArr:andcolorTitleArr:andType:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "489"
+            endingLineNumber = "489"
+            landmarkName = "-UserHaveSelectedColor:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewFaViewController UserHaveSelectedColor:]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E9%9D%A2%E6%96%99%E5%9D%AF%E5%B8%83%E5%8F%91%E5%B8%83/%E9%9D%A2%E6%96%99%E8%A7%84%E6%A0%BC%E7%BC%96%E8%BE%91/NewFaViewController.m"
+                  timestampString = "532683232.636647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewFaViewController UserHaveSelectedColor:]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E9%9D%A2%E6%96%99%E5%9D%AF%E5%B8%83%E5%8F%91%E5%B8%83/%E9%9D%A2%E6%96%99%E8%A7%84%E6%A0%BC%E7%BC%96%E8%BE%91/NewFaViewController.m"
+                  timestampString = "532683232.638254"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "484"
+                  endingLineNumber = "484"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803287"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "513"
+            endingLineNumber = "513"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:andcolorTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803332"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "516"
+            endingLineNumber = "516"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:andcolorTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803378"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "519"
+            endingLineNumber = "519"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:andcolorTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803423"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "569"
+            endingLineNumber = "569"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:andcolorTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803469"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "584"
+            endingLineNumber = "584"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:andcolorTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803514"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.80356"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "290"
+            endingLineNumber = "290"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[NewFaViewController respondToRightButtonClickEvent]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E9%9D%A2%E6%96%99%E5%9D%AF%E5%B8%83%E5%8F%91%E5%B8%83/%E9%9D%A2%E6%96%99%E8%A7%84%E6%A0%BC%E7%BC%96%E8%BE%91/NewFaViewController.m"
+                  timestampString = "532683906.363291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "289"
+                  endingLineNumber = "289"
+                  offsetFromSymbolStart = "2464">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__53-[NewFaViewController respondToRightButtonClickEvent]_block_invoke"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E9%9D%A2%E6%96%99%E5%9D%AF%E5%B8%83%E5%8F%91%E5%B8%83/%E9%9D%A2%E6%96%99%E8%A7%84%E6%A0%BC%E7%BC%96%E8%BE%91/NewFaViewController.m"
+                  timestampString = "532683906.366266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "290"
+                  endingLineNumber = "290"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803606"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "302"
+            endingLineNumber = "302"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.80365"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803695"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.670105"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "483"
+            endingLineNumber = "483"
+            landmarkName = "-setupBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.670522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "488"
+            endingLineNumber = "488"
+            landmarkName = "-setupBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.670929"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "474"
+            endingLineNumber = "474"
+            landmarkName = "-setupBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.803845"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "338"
+            endingLineNumber = "338"
+            landmarkName = "-respondToRightButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.671822"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "459"
+            endingLineNumber = "459"
+            landmarkName = "-setupBtnClick"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[NewProCreateController setupBtnClick]_block_invoke"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E5%8F%91%E5%B8%83%E9%A1%B5%E9%9D%A2/NewProCreateController.m"
+                  timestampString = "532684599.032924"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "458"
+                  endingLineNumber = "458"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[NewProCreateController setupBtnClick]_block_invoke_2"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E5%8F%91%E5%B8%83%E9%A1%B5%E9%9D%A2/NewProCreateController.m"
+                  timestampString = "532684599.035344"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "458"
+                  endingLineNumber = "458"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.672235"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "466"
+            endingLineNumber = "466"
+            landmarkName = "-setupBtnClick"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[NewProCreateController setupBtnClick]_block_invoke_2"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E5%8F%91%E5%B8%83%E9%A1%B5%E9%9D%A2/NewProCreateController.m"
+                  timestampString = "532684800.455039"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[NewProCreateController setupBtnClick]_block_invoke_3"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E5%8F%91%E5%B8%83%E9%A1%B5%E9%9D%A2/NewProCreateController.m"
+                  timestampString = "532684800.45759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834286"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "624"
+            endingLineNumber = "624"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834357"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "653"
+            endingLineNumber = "653"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834418"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "650"
+            endingLineNumber = "650"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834485"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "648"
+            endingLineNumber = "648"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/NewFaViewController.m"
+            timestampString = "533032646.804107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "-initUI"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "649"
+            endingLineNumber = "649"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834641"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "658"
+            endingLineNumber = "658"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834687"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "696"
+            endingLineNumber = "696"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.834731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "691"
+            endingLineNumber = "691"
+            landmarkName = "-setFaModel"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x53d1;&#x5e03;&#x9875;&#x9762;/NewProCreateController.m"
+            timestampString = "532858738.673344"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
+            landmarkName = "-unitBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.673747"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "441"
+            endingLineNumber = "441"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.673808"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "471"
+            endingLineNumber = "471"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.673864"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "480"
+            endingLineNumber = "480"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.673916"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "497"
+            endingLineNumber = "497"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.673968"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "499"
+            endingLineNumber = "499"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.674019"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "486"
+            endingLineNumber = "486"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5927;&#x8d27;&#x6279;&#x91cf;&#x8bbe;&#x7f6e;/BatchSetView.m"
+            timestampString = "533033842.136511"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "-setDataArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5927;&#x8d27;&#x6279;&#x91cf;&#x8bbe;&#x7f6e;/BatchSetView.m"
+            timestampString = "533033842.136565"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-setDataArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5927;&#x8d27;&#x6279;&#x91cf;&#x8bbe;&#x7f6e;/BatchSetCell.m"
+            timestampString = "532858738.67412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "-setModel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x9762;&#x6599;&#x576f;&#x5e03;&#x53d1;&#x5e03;/&#x9762;&#x6599;&#x89c4;&#x683c;&#x7f16;&#x8f91;/&#x5927;&#x8d27;&#x6279;&#x91cf;&#x8bbe;&#x7f6e;/BatchSetCell.m"
+            timestampString = "532858738.674175"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "-setModel:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.674224"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "473"
+            endingLineNumber = "473"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.674277"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "476"
+            endingLineNumber = "476"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.674329"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "478"
+            endingLineNumber = "478"
+            landmarkName = "-setDataWithkindTitleArr:andstatusTitleArr:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CreateFloTypeViewController setDataWithkindTitleArr:andstatusTitleArr:]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E8%AE%BE%E8%AE%A1%E8%8A%B1%E5%9E%8B%E3%80%81%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%8F%91%E5%B8%83/%E5%95%86%E5%93%81%E7%BC%96%E8%BE%91/CreateFloTypeViewController.m"
+                  timestampString = "532839231.537207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "478"
+                  endingLineNumber = "478"
+                  offsetFromSymbolStart = "2480">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CreateFloTypeViewController setDataWithkindTitleArr:andstatusTitleArr:]"
+                  moduleName = "FyhNewProj"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yhf/FYHgit/FyhNewProj/FyhNewProj/Controllers/%E5%95%86%E5%AE%B6/%E6%88%91%E7%9A%84/%E6%96%B0%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83/%E6%96%B0%E7%89%88%E8%AE%BE%E8%AE%A1%E8%8A%B1%E5%9E%8B%E3%80%81%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1%E5%8F%91%E5%B8%83/%E5%95%86%E5%93%81%E7%BC%96%E8%BE%91/CreateFloTypeViewController.m"
+                  timestampString = "532839231.539658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "478"
+                  endingLineNumber = "478"
+                  offsetFromSymbolStart = "2500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.67438"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "516"
+            endingLineNumber = "516"
+            landmarkName = "-UserHaveChangeData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/&#x65b0;&#x5546;&#x54c1;&#x53d1;&#x5e03;/&#x65b0;&#x7248;&#x8bbe;&#x8ba1;&#x82b1;&#x578b;&#x3001;&#x670d;&#x88c5;&#x8bbe;&#x8ba1;&#x53d1;&#x5e03;/&#x5546;&#x54c1;&#x7f16;&#x8f91;/CreateFloTypeViewController.m"
+            timestampString = "532858738.674431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "522"
+            endingLineNumber = "522"
+            landmarkName = "-respondToLeftButtonClickEvent"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.835117"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "488"
+            endingLineNumber = "488"
+            landmarkName = "-setupOrPutDownGoodsWithImage:andstatus:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/ProEditViewController.m"
+            timestampString = "533118542.835175"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "431"
+            endingLineNumber = "431"
+            landmarkName = "-setupOrPutDownGoodsWithImage:andstatus:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/MainViewController/FyhBaseViewController.m"
+            timestampString = "533010674.862517"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "328"
+            endingLineNumber = "328"
+            landmarkName = "-IsIdentityCard:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/MainViewController/FyhBaseViewController.m"
+            timestampString = "533010677.102521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "338"
+            endingLineNumber = "338"
+            landmarkName = "-IsIdentityCard:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/MainViewController/FyhBaseViewController.m"
+            timestampString = "533010686.846849"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "-IsIdentityCard:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x6211;&#x7684;/MineViewController.m"
+            timestampString = "533119106.859823"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "-viewWillAppear:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.088937"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "617"
+            endingLineNumber = "617"
+            landmarkName = "-loadUserCustomstockLessThanNumber:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.08924"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "603"
+            endingLineNumber = "603"
+            landmarkName = "-loadUpOrDownDataWithDic:andnumber:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.089428"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1262"
+            endingLineNumber = "1262"
+            landmarkName = "-makeSurePrint"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.089511"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1231"
+            endingLineNumber = "1231"
+            landmarkName = "-samdeleteBtnClick"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x5546;&#x5bb6;/&#x6211;&#x7684;/GoodsManageViewController.m"
+            timestampString = "533205959.089584"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1258"
+            endingLineNumber = "1258"
+            landmarkName = "-makeSurePrint"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x4e8c;&#x7ef4;&#x7801;&#x6253;&#x5370;/PrintQrNewViewController.mm"
+            timestampString = "533205959.089666"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "-setUp"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x4e8c;&#x7ef4;&#x7801;&#x6253;&#x5370;/PrintQrNewViewController.mm"
+            timestampString = "533205959.089734"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "-setUp"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x4e8c;&#x7ef4;&#x7801;&#x6253;&#x5370;/PrintQrNewViewController.mm"
+            timestampString = "533205959.0898"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "449"
+            endingLineNumber = "449"
+            landmarkName = "-printQrcode"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/Controllers/&#x9996;&#x9875;/homepageViewController.mm"
+            timestampString = "533186200.38433"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "-searchView"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/PL/ShopSettingPL.m"
+            timestampString = "533202559.117178"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "+GetCustomShopInfoWithDic:andReturnBlock:andErrorBlock:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/PL/ShopSettingPL.m"
+            timestampString = "533202561.549257"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "+GetCustomShopInfoWithDic:andReturnBlock:andErrorBlock:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/&#x7f51;&#x7edc;&#x914d;&#x7f6e;/HTTPClient.m"
+            timestampString = "533284345.674783"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2396"
+            endingLineNumber = "2396"
+            landmarkName = "-UserGetustomInfoWithInfoDic:withReturnBlock:andErrorBlock:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/&#x7f51;&#x7edc;&#x914d;&#x7f6e;/HTTPClient.m"
+            timestampString = "533284345.674874"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2386"
+            endingLineNumber = "2386"
+            landmarkName = "-UserGetustomInfoWithInfoDic:withReturnBlock:andErrorBlock:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FyhNewProj/&#x7f51;&#x7edc;&#x914d;&#x7f6e;/HTTPClient.m"
+            timestampString = "533284345.674922"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2384"
+            endingLineNumber = "2384"
+            landmarkName = "-UserGetustomInfoWithInfoDic:withReturnBlock:andErrorBlock:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
