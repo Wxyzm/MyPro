@@ -132,6 +132,7 @@
 #define FYHSessionOption        @"sessionCookieOption"
 #define FYHSessionId            @"FYH-Session-Id"
 #define FYHSubSession            @"FYH-SubSession"
+#define FYHLoginSubSession            @"FYH-LoginSubSession"
 
 
 //获取本地图片的路径

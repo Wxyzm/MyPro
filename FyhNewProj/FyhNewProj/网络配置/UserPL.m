@@ -71,6 +71,8 @@ static UserPL *sharedManager = nil;
     [[NSUserDefaults standardUserDefaults] removeObjectForKey:FYH_USER_PASSWORD];
     [[NSUserDefaults standardUserDefaults] removeObjectForKey:FYH_RC_Token];
     [[NSUserDefaults standardUserDefaults] removeObjectForKey:FYH_USER_ID];
+    [[NSUserDefaults standardUserDefaults] removeObjectForKey:FYHSubSession];
+    [[NSUserDefaults standardUserDefaults] removeObjectForKey:FYHLoginSubSession];
 
     [[RCIM sharedRCIM]disconnect:NO];
     [[NSUserDefaults standardUserDefaults]synchronize];
@@ -120,6 +122,43 @@ static UserPL *sharedManager = nil;
     
     
 }
+
+
+/**
+ 通过短信验证那登录
+ 
+ @param codeDic 短信验证码
+ @param returnBlock returnBlock description
+ @param errorBlock errorBlock description
+ */
+- (void)userLoginWithCodeDic:(NSDictionary *)codeDic andReturnBlock:(PLReturnValueBlock)returnBlock withErrorBlock:(PLErrorCodeBlock)errorBlock{
+     HTTPClient *client = [HTTPClient sharedHttpClient];
+    [client userCodeLoginWithDic:codeDic hReturnBlock:^(id returnValue) {
+        NSLog(@"%@",returnValue);
+        NSDictionary *dic = [HTTPClient valueWithJsonString:returnValue];
+        if ([dic[@"code"] intValue]==-1) {
+            
+            NSDictionary *dataDic = dic[@"data"];
+            _token.sessionId = dataDic[@"sessionId"];
+            [[NSUserDefaults standardUserDefaults]setObject:_token.sessionId forKey:FYHSessionId];
+            [[NSUserDefaults standardUserDefaults]setObject:@"1" forKey:FYH_SING_IN];
+            [[NSUserDefaults standardUserDefaults]setObject:codeDic[@"mobileNumber"] forKey:FYH_USER_ACCOUNT];
+            [[NSUserDefaults standardUserDefaults]setObject:dataDic[@"password"] forKey:FYH_USER_PASSWORD];
+            [[NSUserDefaults standardUserDefaults]synchronize];
+            returnBlock(@"");
+        }else {
+            errorBlock(dic[@"message"]);
+        }
+    } andErrorBlock:^(NSString *msg) {
+        errorBlock(msg);
+   
+    }];
+    
+    
+    
+    
+}
+
 
 - (NSString*)getToken {
     return _token.sessionId;

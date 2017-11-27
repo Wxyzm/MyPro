@@ -74,6 +74,18 @@ htmlSuccess:(void(^)(id returnValue))successBlock
 - (void)usergetIdwithReturnBlock:(PLReturnValueBlock)ReturnBlock
                     andErrorBlock:(PLErrorCodeBlock)errorCodeBlock;
 
+#pragma mark - 用户通过短信登录前获取subSession
+- (void)usergetCodeLoginSubSessionidWithReturnBlock:(PLReturnValueBlock)ReturnBlock
+                                      andErrorBlock:(PLErrorCodeBlock)errorCodeBlock;
+#pragma mark - 用户通过短信登录获取短信
+- (void)usergetCodeLoginCodeWithDic:(NSDictionary *)codeDIc
+                        ReturnBlock:(PLReturnValueBlock)ReturnBlock
+                      andErrorBlock:(PLErrorCodeBlock)errorCodeBlock;
+#pragma mark - 用户通过短信登录
+- (void)userCodeLoginWithDic:(NSDictionary *)codeDIc
+                hReturnBlock:(PLReturnValueBlock)ReturnBlock
+               andErrorBlock:(PLErrorCodeBlock)errorCodeBlock;
+
 #pragma mark - 用户注册前获取subSession
 - (void)getUserSubSessionwithReturnBlock:(PLReturnValueBlock)ReturnBlock
                     andErrorBlock:(PLErrorCodeBlock)errorCodeBlock;

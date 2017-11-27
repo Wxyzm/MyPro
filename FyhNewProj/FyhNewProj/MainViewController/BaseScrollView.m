@@ -10,6 +10,20 @@
 
 @implementation BaseScrollView
 
+
+
+-(instancetype)init{
+    
+    self = [super init];
+    if (self) {
+        if (@available(iOS 11.0, *)) {
+            self.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
+        }
+    }
+    
+    return self;
+}
+
 //防止影响侧滑
 - (BOOL)gestureRecognizerShouldBegin:(UIGestureRecognizer *)gestureRecognizer
 {

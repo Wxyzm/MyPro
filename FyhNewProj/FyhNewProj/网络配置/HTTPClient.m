@@ -98,10 +98,12 @@
     //需要在登录后获取 存于本地  注意在用户登出时清掉
     if ([HTTPClient getUserSessiond].length >0) {
         [request setValue:[HTTPClient getUserSessiond] forHTTPHeaderField:@"FYH-Session-Id"];
-    }else{
-        [request setValue:@"xxx" forHTTPHeaderField:@"FYH-Session-Id"];
-
     }
+//    else{
+//        [request setValue:@"xxx" forHTTPHeaderField:@"FYH-Session-Id"];
+//
+//
+//    }
     
     if ([method isEqualToString:@"POST"]) {
         NSArray *keyArray = [info allKeys];
@@ -2537,5 +2539,157 @@ htmlSuccess:(void(^)(id))successBlock
     
     [_queue addOperation:operation];
 }
+#pragma mark - 用户通过短信登录前获取subSession
+- (void)usergetCodeLoginSubSessionidWithReturnBlock:(PLReturnValueBlock)ReturnBlock
+                                      andErrorBlock:(PLErrorCodeBlock)errorCodeBlock{
+    NSMutableURLRequest *request = [[NSMutableURLRequest alloc] init];
+    [self newsetRequestWithInfo:nil url:@"/user/login/sms" method:@"GET" requset:request];
+    
+    AFHTTPRequestOperation * operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
+    
+    
+    [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject)
+     {
+         dispatch_async(dispatch_get_main_queue(), ^{
+             NSString *str = operation.responseString;
+             ReturnBlock(str);
+         });
+     }failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+         errorCodeBlock(@"网络错误");
+     }];
+    
+    [_queue addOperation:operation];
+}
+
+#pragma mark - 用户通过短信登录获取短信
+- (void)usergetCodeLoginCodeWithDic:(NSDictionary *)codeDIc
+                        ReturnBlock:(PLReturnValueBlock)ReturnBlock
+                      andErrorBlock:(PLErrorCodeBlock)errorCodeBlock{
+    NSMutableURLRequest *request = [[NSMutableURLRequest alloc] init];
+    [self newsetRequestWithInfo:codeDIc url:@"/user/login/sms/send-sms" method:@"POST" requset:request];
+    
+    AFHTTPRequestOperation * operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
+    
+    
+    [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject)
+     {
+         dispatch_async(dispatch_get_main_queue(), ^{
+             NSString *str = operation.responseString;
+             ReturnBlock(str);
+         });
+     }failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+         errorCodeBlock(@"网络错误");
+     }];
+    
+    [_queue addOperation:operation];
+}
+
+#pragma mark - 用户通过短信登录
+- (void)userCodeLoginWithDic:(NSDictionary *)codeDIc
+                hReturnBlock:(PLReturnValueBlock)ReturnBlock
+               andErrorBlock:(PLErrorCodeBlock)errorCodeBlock{
+    NSMutableURLRequest *request = [[NSMutableURLRequest alloc] init];
+    [self newsetRequestWithInfo:codeDIc url:@"/user/login/sms/do-login" method:@"POST" requset:request];
+    
+    AFHTTPRequestOperation * operation = [[AFHTTPRequestOperation alloc]initWithRequest:request];
+    
+    
+    [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject)
+     {
+         dispatch_async(dispatch_get_main_queue(), ^{
+             NSString *str = operation.responseString;
+             ReturnBlock(str);
+         });
+     }failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+         errorCodeBlock(@"网络错误");
+     }];
+    
+    [_queue addOperation:operation];
+    
+}
+
+//获取request
+- (void)newsetRequestWithInfo:(NSDictionary *)info url:(NSString *)urlStr method:(NSString *)method requset:(NSMutableURLRequest *)request
+{
+    NSURL *url;
+    if ([method isEqualToString:@"GET"]) {
+        if (info) {
+            NSArray *keyArray = [info allKeys];
+            NSMutableString *str = [NSMutableString string];
+            [str appendString:@"?"];
+            NSString *key = keyArray[0];
+            [str appendString:[NSString stringWithFormat:@"%@=%@",key,[info objectForKey:key]]];
+            for (int i = 1;i < keyArray.count;i++) {
+                key = keyArray[i];
+                if (key.length)
+                    [str appendString:[NSString stringWithFormat:@"&%@=%@",key,[info objectForKey:key]]];
+                
+                
+            }
+            url = [NSURL URLWithString:[[NSString stringWithFormat:@"%@%@%@",_baseUrl,urlStr?urlStr:@"",str] stringByAddingPercentEscapesUsingEncoding: NSUTF8StringEncoding]];
+        } else {
+            url = [NSURL URLWithString:[NSString stringWithFormat:@"%@%@",_baseUrl,urlStr?urlStr:@""]];
+        }
+    } else {
+        NSString *URLWithString = [NSString stringWithFormat:@"%@%@",_baseUrl,urlStr?urlStr:@""];
+        NSString *encodedString = (NSString *)
+        
+        CFBridgingRelease(CFURLCreateStringByAddingPercentEscapes(kCFAllocatorDefault,
+                                                                  
+                                                                  (CFStringRef)URLWithString,
+                                                                  
+                                                                  (CFStringRef)@"!$&'()*+,-./:;=?@_~%#[]",
+                                                                  
+                                                                  NULL,
+                                                                  
+                                                                  kCFStringEncodingUTF8));
+        url = [NSURL URLWithString:[encodedString stringByAddingPercentEscapesUsingEncoding: NSUTF8StringEncoding]];
+        //  url = [NSURL URLWithString:[NSString stringWithFormat:@"%@%@",_baseUrl,urlStr?urlStr:@""]];
+    }
+    
+    [request setURL:url];
+    [request setCachePolicy:NSURLRequestUseProtocolCachePolicy];
+    [request setTimeoutInterval:NET_TIME_OUT];
+    [request setHTTPMethod:method];
+    
+    NSDate* dat = [NSDate dateWithTimeIntervalSinceNow:0];
+    NSTimeInterval a=[dat timeIntervalSince1970];
+    NSString *timeString = [NSString stringWithFormat:@"%.0f", a];
+    //    [request setValue:@"FYHIOS" forHTTPHeaderField:@"FYH-App-Key"];
+    [request setValue:@"iOS_52" forHTTPHeaderField:@"FYH-App-Key"];
+    [request setValue:@"zh_CN" forHTTPHeaderField:@"accept-Language"];
+    
+    [request setValue:timeString forHTTPHeaderField:@"FYH-App-Timestamp"];
+    //用的是测试的
+    [request setValue:@"oIkBLWG4OUHTgYmN" forHTTPHeaderField:@"FYH-App-Signature"];
+    //需要在登录后获取 存于本地  注意在用户登出时清掉
+//    if ([HTTPClient getUserSessiond].length >0&&![[HTTPClient getUserSessiond] isEqualToString:@"xxx"]) {
+//        [request setValue:[HTTPClient getUserSessiond] forHTTPHeaderField:@"FYH-Session-Id"];
+//    }else{
+//        [request setValue:@"xxx" forHTTPHeaderField:@"FYH-Session-Id"];
+//
+//
+//    }
+//     [request setValue:@"" forHTTPHeaderField:@"FYH-Session-Id"];
+    if ([method isEqualToString:@"POST"]) {
+        NSArray *keyArray = [info allKeys];
+        if (keyArray.count >0) {
+            NSMutableString *sendStr = [NSMutableString string];
+            NSString *key = keyArray[0];
+            [sendStr appendString:[NSString stringWithFormat:@"%@=%@",key,[info objectForKey:key]]];
+            for (int i = 1;i < keyArray.count;i++) {
+                key = keyArray[i];
+                if (key.length)
+                    [sendStr appendString:[NSString stringWithFormat:@"&%@=%@",key,[info objectForKey:key]]];
+            }
+            NSData *data = [sendStr dataUsingEncoding:NSUTF8StringEncoding];
+            [request setHTTPBody:data];
+        }else{
+            NSData *data = [@"" dataUsingEncoding:NSUTF8StringEncoding];
+            [request setHTTPBody:data];
+        }
+    }
+}
+
 
 @end

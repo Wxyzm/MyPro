@@ -187,10 +187,10 @@
         [self showTextHud:@"请输入手机号码"];
         return;
     }
-    if (![self isMobileNumber:_UserPhoneTxt.text]) {
-        [self showTextHud:@"请输入正确的手机号码"];
-        return;
-    }
+//    if (![self isMobileNumber:_UserPhoneTxt.text]) {
+//        [self showTextHud:@"请输入正确的手机号码"];
+//        return;
+//    }
     __block int timeout=119; // Time block.
     dispatch_queue_t queue = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0);
     _timer  = dispatch_source_create(DISPATCH_SOURCE_TYPE_TIMER, 0, 0,queue);

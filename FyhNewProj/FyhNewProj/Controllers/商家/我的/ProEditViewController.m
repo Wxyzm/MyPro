@@ -76,6 +76,9 @@
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(newUserHavesetupGoodsList:)
                                                  name:@"newUserHavesetupGoodsList"  object:nil];
     _upImagePL =  [[UpImagePL alloc]init];
+    id traget = self.navigationController.interactivePopGestureRecognizer.delegate;
+    UIPanGestureRecognizer * pan = [[UIPanGestureRecognizer alloc]initWithTarget:traget action:nil];
+    [self.view addGestureRecognizer:pan];
     [self loadGoodsDetail];
 }
 

@@ -67,7 +67,7 @@
 -(UIScrollView *)myscrollView{
     
     if (!_myscrollView) {
-        _myscrollView = [[UIScrollView alloc] init];
+        _myscrollView = [[BaseScrollView alloc] init];
         _myscrollView.frame = CGRectMake(0, 0, ScreenWidth, ScreenHeight-64);
         self.myscrollView.backgroundColor = UIColorFromRGB(0xf5f7fa);
     }
@@ -119,6 +119,9 @@
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(UserHaveChangeData)
                                                  name:@"UserHaveChangeData"  object:nil];
     _needResultArr = [NSMutableArray arrayWithCapacity:0];
+    id traget = self.navigationController.interactivePopGestureRecognizer.delegate;
+    UIPanGestureRecognizer * pan = [[UIPanGestureRecognizer alloc]initWithTarget:traget action:nil];
+    [self.view addGestureRecognizer:pan];
     [self initUI];
     
 }

@@ -157,6 +157,7 @@
 		EC502B311E9B4F750044BE56 /* OrderBtn.m in Sources */ = {isa = PBXBuildFile; fileRef = EC502B301E9B4F750044BE56 /* OrderBtn.m */; };
 		EC502B361E9B55F50044BE56 /* MineTopView.m in Sources */ = {isa = PBXBuildFile; fileRef = EC502B351E9B55F50044BE56 /* MineTopView.m */; };
 		EC508E8B1E69154000FCE482 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC508E8A1E69154000FCE482 /* Images.xcassets */; };
+		EC5277FD1FCBE42D00716846 /* MassageloginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC5277FC1FCBE42D00716846 /* MassageloginViewController.m */; };
 		EC532EDC1F286532008676CC /* MyPriceModel.m in Sources */ = {isa = PBXBuildFile; fileRef = EC532EDB1F286532008676CC /* MyPriceModel.m */; };
 		EC532EE01F286708008676CC /* MyPriceCell.m in Sources */ = {isa = PBXBuildFile; fileRef = EC532EDF1F286708008676CC /* MyPriceCell.m */; };
 		EC532EE31F288067008676CC /* MyPriceDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC532EE21F288067008676CC /* MyPriceDetailViewController.m */; };
@@ -979,6 +980,8 @@
 		EC502B341E9B55F50044BE56 /* MineTopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MineTopView.h; sourceTree = "<group>"; };
 		EC502B351E9B55F50044BE56 /* MineTopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MineTopView.m; sourceTree = "<group>"; };
 		EC508E8A1E69154000FCE482 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		EC5277FB1FCBE42D00716846 /* MassageloginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MassageloginViewController.h; sourceTree = "<group>"; };
+		EC5277FC1FCBE42D00716846 /* MassageloginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MassageloginViewController.m; sourceTree = "<group>"; };
 		EC532EDA1F286532008676CC /* MyPriceModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyPriceModel.h; sourceTree = "<group>"; };
 		EC532EDB1F286532008676CC /* MyPriceModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyPriceModel.m; sourceTree = "<group>"; };
 		EC532EDE1F286708008676CC /* MyPriceCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyPriceCell.h; sourceTree = "<group>"; };
@@ -2999,6 +3002,8 @@
 				EC4322D11E67BA7700D5C83E /* MemberLoginController.m */,
 				EC4322CA1E67B95D00D5C83E /* MemberRegistController.h */,
 				EC4322CB1E67B95D00D5C83E /* MemberRegistController.m */,
+				EC5277FB1FCBE42D00716846 /* MassageloginViewController.h */,
+				EC5277FC1FCBE42D00716846 /* MassageloginViewController.m */,
 				EC9F97F41E78DD420061ABB6 /* XieYiController.h */,
 				EC9F97F51E78DD420061ABB6 /* XieYiController.m */,
 				EC25334B1E6CFDD3005F84AA /* MemberFgPwdViewController.h */,
@@ -6019,6 +6024,7 @@
 				ECBD52FE1ED40AF400AFCA23 /* GProductItemModel.m in Sources */,
 				EC7C19091EAEE3AF002F80AC /* TAAnimatedDotView.m in Sources */,
 				EC7C19401EAEE3AF002F80AC /* ZXAddressBookAUResultParser.m in Sources */,
+				EC5277FD1FCBE42D00716846 /* MassageloginViewController.m in Sources */,
 				ECA8FB4E1F023B62009236BF /* ShopCartitemsModel.m in Sources */,
 				ECBE92C41FBECC3B00A34D6F /* SpecificationListEditModel.m in Sources */,
 				EC3CCD881EF52143007D7841 /* CompleteSpecificationModel.m in Sources */,

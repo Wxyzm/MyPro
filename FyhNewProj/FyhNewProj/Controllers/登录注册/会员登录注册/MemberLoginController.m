@@ -8,6 +8,7 @@
 
 #import "MemberLoginController.h"
 #import "MemberFgPwdViewController.h"
+#import "MassageloginViewController.h"
 #import "MemberRegistController.h"
 #import "AppDelegate.h"
 #import "RCTokenPL.h"
@@ -132,9 +133,14 @@
     
     SubBtn *forgetBtn = [SubBtn buttonWithtitle:@"忘记密码？" backgroundColor:[UIColor clearColor] titlecolor:UIColorFromRGB(BlackColorValue) cornerRadius:0 andtarget:self action:@selector(forget)];
     forgetBtn.titleLabel.font = APPFONT(13);
-    forgetBtn.frame = CGRectMake(ScreenWidth/2-100, CGRectGetMaxY(loginBtn.frame)+15, 200, 30);
+    forgetBtn.frame = CGRectMake(35, CGRectGetMaxY(loginBtn.frame)+15, 70, 30);
     [self.view addSubview:forgetBtn];
     
+    SubBtn *codeLoginBtn = [SubBtn buttonWithtitle:@"短信登录" backgroundColor:[UIColor clearColor] titlecolor:UIColorFromRGB(BlackColorValue) cornerRadius:0 andtarget:self action:@selector(codeLogin)];
+    codeLoginBtn.titleLabel.font = APPFONT(13);
+    codeLoginBtn.titleLabel.textAlignment = NSTextAlignmentRight;
+    codeLoginBtn.frame = CGRectMake(ScreenWidth-45-50, CGRectGetMaxY(loginBtn.frame)+15, 55, 30);
+    [self.view addSubview:codeLoginBtn];
     
     SubBtn *registBtn = [SubBtn buttonWithtitle:@"注册新用户" backgroundColor:[UIColor clearColor] titlecolor:UIColorFromRGB(BlackColorValue) cornerRadius:0 andtarget:self action:@selector(regist)];
     registBtn.titleLabel.font = APPFONT(15);
@@ -145,7 +151,13 @@
 
 }
 
-
+- (void)codeLogin{
+    
+    MassageloginViewController  *enterVc = [[MassageloginViewController alloc]init];
+    [self.navigationController pushViewController:enterVc animated:YES];
+    
+    
+}
 
 - (void)bbtnClick:(UIButton *)btn{
     btn.selected  = !btn.selected;

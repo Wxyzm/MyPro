@@ -99,6 +99,9 @@
                                                  name:@"UserHaveSelectedColor"  object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(UserHaveChangeData)
                                                  name:@"UserHaveChangeData"  object:nil];
+    id traget = self.navigationController.interactivePopGestureRecognizer.delegate;
+    UIPanGestureRecognizer * pan = [[UIPanGestureRecognizer alloc]initWithTarget:traget action:nil];
+    [self.view addGestureRecognizer:pan];
     [self initUI];
 
 }

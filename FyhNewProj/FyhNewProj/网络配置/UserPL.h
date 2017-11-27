@@ -35,6 +35,17 @@
  *  用户登录
  */
 - (void)userLoginWithReturnBlock:(PLReturnValueBlock)returnBlock withErrorBlock:(PLErrorCodeBlock)errorBlock;
+
+
+/**
+ 通过短信验证那登录
+
+ @param codeDic 短信验证码
+ @param returnBlock returnBlock description
+ @param errorBlock errorBlock description
+ */
+- (void)userLoginWithCodeDic:(NSDictionary *)codeDic andReturnBlock:(PLReturnValueBlock)returnBlock withErrorBlock:(PLErrorCodeBlock)errorBlock;
+
 /**
  *  向本地写入用户信息
  */
